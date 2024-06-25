@@ -1,0 +1,17 @@
+body{
+    min-height: 100vh;
+    background-image : url('../asset/login-bg.jpg');
+    background-size:cover;
+}
+main{
+    display: flex;
+    flex-wrap: nowrap;
+    min-height: 100vh;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+/* .b-ground{
+    background-image : url('../asset/login-bg.jpg');
+    background-size:cover;
+    max-height: 100vh;
+} */
